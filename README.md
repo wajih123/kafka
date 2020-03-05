@@ -29,3 +29,7 @@ bin/kafka-server-start.sh config/server.properties
 *******windows*******
 
 bin\windows\kafka-server-start.bat config/server.properties
+
+for more details visit kafka page
+
+=> https://kafka.apache.org/
